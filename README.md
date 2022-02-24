@@ -31,11 +31,11 @@ Code examples
   
 2017
 
-![2017 Table.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/2017 Table.png)
+![2017 Table.png] (/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/2017 Table.png)
 
 2018
 
-![2018 Table.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/2018 Table.png)
+![2018 Table.png] (/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/2018 Table.png)
 
   Here we can see a graphic representation with the colors symbolic values, green for positive and red for negative.
 
@@ -59,11 +59,11 @@ Summary
   
 Before
 
-![Previous VBA_Challenge_2017.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/Previous VBA_Challenge_2017.png)
+![Previous VBA_Challenge_2017.png] (/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/Previous VBA_Challenge_2017.png)
 
 After
 
-![VBA_Challenge_2017.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png] (/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/VBA_Challenge_2017.png)
 
 Disadvantages
   Even though this is a great advantage to consider, when we use refactored code, there are potential bugs that can be difficult to figure out if there is any hard coding or magic number left in the code. Which in result becomes a benefit of the non refactored code. It is clear and more simple to manipulate and preferred for smaller datasets.
