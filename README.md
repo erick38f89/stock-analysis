@@ -30,9 +30,11 @@ Code examples
   This results in the follwoing image in the tables that help us identify that 2017 was a much better year for the price variation than 2018.
   
 2017
+
 ![2017 Table.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/2017 Table.png)
 
 2018
+
 ![2018 Table.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/2018 Table.png)
 
   Here we can see a graphic representation with the colors symbolic values, green for positive and red for negative.
@@ -56,9 +58,11 @@ Summary
   The results in time are perceivable even if this is not such a great amount of data. As we can see the unrefactored code takes nearly four seconds and after refactoring the time takes fewer than one second as can be compared in the below images.
   
 Before
+
 ![Previous VBA_Challenge_2017.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/Previous VBA_Challenge_2017.png)
 
 After
+
 ![VBA_Challenge_2017.png](/Users/Erick/Desktop/Bootcamp/Class Folder/Stocks Analysis/Resources/VBA_Challenge_2017.png)
 
 Disadvantages
